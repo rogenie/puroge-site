@@ -153,7 +153,7 @@ def page(title, description, path, body, schema=None, og_type="website", extra_h
 <footer class="foot">
   <div class="wrap">
     <p class="foot-brand">{LOGO}</p><p class="foot-tag">{esc(SITE["tagline_brand"])}</p>
-    <p class="foot-ded">{esc(SITE['dedication'])}</p>
+    <p class="foot-ded"><a href="https://puroge.com/story/">{esc(SITE['dedication'])}</a></p>
     <p class="foot-links"><a href="{url()}">Journal</a> · <a href="{url('about/')}">About</a> · <a href="{SITE['shop_url']}">puroge.com</a> · <a href="{url('feed.xml')}">RSS</a></p>
     <p class="foot-small">© {date.today().year} Purogé. Some shop links may earn a commission at no cost to you.</p>
   </div>
@@ -318,7 +318,7 @@ def about_page():
   <header class="art-head wrap narrow">
     <p class="eyebrow">About</p>
     <h1>Fewer pieces. Better fiber. Worn for years.</h1>
-    <p class="dek">{esc(SITE['dedication'])}</p>
+    <p class="dek"><a href="https://puroge.com/story/">{esc(SITE['dedication'])}</a></p>
   </header>
   <div class="wrap narrow prose">
     <p>Purogé curates clothing for people who would rather buy once and buy well. We start from the fabric: what it is made of, how it feels against the skin, and how long it will last. Our edit centers on two pieces that do most of the work in a considered wardrobe: a linen top and a comfortable pair of pants, both made for the office and the airport.</p>

@@ -144,6 +144,7 @@ sup{line-height:0}
 .foot-brand svg{height:30px;width:auto}
 .foot-tag{font:italic 18px/1.4 var(--serif);color:var(--accent);margin:0 0 18px}
 .foot-ded{font:italic 19px/1.5 var(--serif);color:var(--soft);margin:0 0 22px}
+.foot-ded a{text-decoration:none;border-bottom:1px solid var(--line)}.foot-ded a:hover{border-color:var(--accent)}
 .foot-links{font-size:13px;letter-spacing:.06em;color:var(--muted)}
 .foot-links a{color:var(--soft);text-decoration:none}
 .foot-small{font-size:12px;color:var(--muted);margin:18px 0 0}
