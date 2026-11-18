@@ -27,8 +27,9 @@ a:hover{color:var(--accent)}
 .masthead{border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--bg) 92%,transparent);
   position:sticky;top:0;z-index:5;backdrop-filter:saturate(1.2) blur(8px)}
 .bar{display:flex;align-items:center;justify-content:space-between;height:68px}
-.brand{font:500 28px/1 var(--serif);letter-spacing:.04em;text-decoration:none}
-.brand span{font:500 10px/1 var(--sans);letter-spacing:.28em;text-transform:uppercase;color:var(--muted);margin-left:12px;vertical-align:4px}
+.brand{display:flex;align-items:center;text-decoration:none;color:var(--ink)}
+.brand svg{height:22px;width:auto;display:block}
+.brand span{font:500 10px/1 var(--sans);letter-spacing:.28em;text-transform:uppercase;color:var(--muted);margin-left:14px;padding-left:14px;border-left:1px solid var(--line)}
 .masthead nav a{font-size:13px;letter-spacing:.04em;text-decoration:none;color:var(--soft);margin-left:26px}
 .masthead nav a.shop{border:1px solid var(--ink);padding:8px 16px;border-radius:999px;color:var(--ink)}
 .masthead nav a.shop:hover{background:var(--ink);color:var(--bg)}
@@ -139,7 +140,9 @@ sup{line-height:0}
 
 /* footer */
 .foot{background:var(--sand);border-top:1px solid var(--line);padding:64px 0 56px;text-align:center}
-.foot-brand{font:500 34px/1 var(--serif);letter-spacing:.06em;margin:0 0 14px}
+.foot-brand{margin:0 0 12px;color:var(--ink)}
+.foot-brand svg{height:30px;width:auto}
+.foot-tag{font:italic 18px/1.4 var(--serif);color:var(--accent);margin:0 0 18px}
 .foot-ded{font:italic 19px/1.5 var(--serif);color:var(--soft);margin:0 0 22px}
 .foot-links{font-size:13px;letter-spacing:.06em;color:var(--muted)}
 .foot-links a{color:var(--soft);text-decoration:none}
@@ -149,7 +152,7 @@ sup{line-height:0}
   body{font-size:16px}
   .wrap{padding:0 22px}
   .bar{height:60px}
-  .brand{font-size:24px}.brand span{display:none}
+  .brand svg{height:18px}.brand span{display:none}
   .masthead nav a{margin-left:16px}
   .masthead nav a:not(.shop):first-child{display:none}
   .hero{padding:64px 22px 36px}

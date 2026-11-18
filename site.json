@@ -3,12 +3,12 @@
   "journal_name": "The Purogé Journal",
   "tagline": "Natural fiber, explained. Linen for work and travel.",
   "description": "The Purogé Journal explains why natural-fiber clothing matters for your body and the planet, and how to wear linen well at work and on the road.",
-  "base_url": "https://rogenie.github.io/puroge-site",
-  "base_path": "/puroge-site",
+  "base_url": "https://puroge.com/journal",
+  "base_path": "/journal",
   "shop_url": "https://puroge.com",
   "shop_links": {
     "work": "https://puroge.com/occasion/work",
-    "travel": "https://puroge.com/occasion/travel"
+    "travel": "https://puroge.com/looks/"
   },
   "author": {
     "name": "Rogenie",
@@ -16,5 +16,6 @@
     "bio": "Rogenie founded Purogé, named for her grandmothers Lola Purisima and Lola Roberta, who sewed and sold clothes for a living. She writes about natural fiber, fit and buying fewer, better pieces."
   },
   "dedication": "Named for Lola Purisima and Lola Roberta, who sewed and sold clothes for a living.",
-  "locale": "en_US"
+  "locale": "en_US",
+  "tagline_brand": "Natural fiber, found for you."
 }

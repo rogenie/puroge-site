@@ -11,25 +11,25 @@ sustainable clothing and linen, each written as a sales letter that leads to the
 2. Copy an article from `content/articles/` and rename it to the new slug.
 3. Follow `docs/article-structure.md`. Every statistic gets a footnote to its source.
 4. Set `draft: true` while writing. Remove it to publish.
-5. Push to `main`. GitHub Actions builds and publishes in about a minute.
+5. Push to `main`. It is live at puroge.com/journal within the hour (see below).
 
 Preview locally: `pip install markdown pyyaml`, then `python3 build.py --drafts` and open `site/index.html`
-(or run `python3 -m http.server -d site` and set `base_path` to `""` in `site.json` while previewing).
+(links assume the site is served under /journal).
 
 ## What every build produces
 
 - One page per article with Article, FAQPage and BreadcrumbList schema
-- `sitemap.xml`, `feed.xml` (RSS), `robots.txt` that welcomes Google, Bing and AI search crawlers
+- `sitemap.xml` and `feed.xml` (RSS). The `robots.txt` that welcomes AI search crawlers lives at the puroge.com root (puroge repo)
 - `llms.txt`, a plain-language index of every article with its short answer, for AI systems
 
-## Moving to a puroge.com address
+## How it goes live
 
-The site currently publishes at `rogenie.github.io/puroge-site`. To serve it from your own domain
-(for example `journal.puroge.com`):
+The journal is served at **puroge.com/journal**. It has no publish step of its own: the `puroge` repo's
+"Publish puroge.com" workflow checks out this repo and builds it into `/journal` every time puroge.com
+publishes, and once an hour on its own. So a pushed article is live within the hour; to publish at once,
+run that workflow by hand (puroge repo → Actions → Publish puroge.com → Run workflow).
 
-1. Add a CNAME record for `journal` pointing to `rogenie.github.io` at your domain registrar.
-2. In this repo: Settings → Pages → Custom domain → `journal.puroge.com`.
-3. In `site.json`: set `base_url` to `https://journal.puroge.com` and `base_path` to `""`. Push.
+The `check` workflow here builds every push so a broken article is caught before it reaches the site.
 
 ## After launch
 
