@@ -28,7 +28,8 @@ a:hover{color:var(--accent)}
   position:sticky;top:0;z-index:5;backdrop-filter:saturate(1.2) blur(8px)}
 .bar{display:flex;align-items:center;justify-content:space-between;height:68px}
 .brand{display:flex;align-items:center;text-decoration:none;color:var(--ink)}
-.brand svg{height:22px;width:auto;display:block}
+.brand svg{height:26px;width:auto;display:block}
+.brand .emb{margin-right:12px}.brand .emb svg{width:44px;height:44px;filter:drop-shadow(0 3px 6px rgba(107,42,38,.25))}
 .brand span{font:500 10px/1 var(--sans);letter-spacing:.28em;text-transform:uppercase;color:var(--muted);margin-left:14px;padding-left:14px;border-left:1px solid var(--line)}
 .masthead nav a{font-size:13px;letter-spacing:.04em;text-decoration:none;color:var(--soft);margin-left:26px}
 .masthead nav a.shop{border:1px solid var(--ink);padding:8px 16px;border-radius:999px;color:var(--ink)}
@@ -153,7 +154,7 @@ sup{line-height:0}
   body{font-size:16px}
   .wrap{padding:0 22px}
   .bar{height:60px}
-  .brand svg{height:18px}.brand span{display:none}
+  .brand svg{height:20px}.brand > span:last-child{display:none}.brand .emb svg{width:36px;height:36px}
   .masthead nav a{margin-left:16px}
   .masthead nav a:not(.shop):first-child{display:none}
   .hero{padding:64px 22px 36px}
