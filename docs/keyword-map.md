@@ -34,10 +34,12 @@ once the site has been live for about a month.
 
 ## Queue (next batches, in priority order)
 
+The live schedule is `content/calendar.json`; the automatic publisher (see `PUBLISHING.md`) works from it.
+
 1. Is polyester bad for you? (health angle → pillar)
 2. How to keep linen from wrinkling
 3. Is linen see-through? How to choose linen weight (GSM)
-4. Women's linen clothing guide: the pieces worth buying (~14.8k/mo head term; publish once product pages exist)
+4. Where is linen made? Reading "European flax" and "Made in USA" on a label
 5. Best fabric for long flights
 6. How to wash and care for linen so it lasts decades
 7. What is sustainable clothing? (short definition page)

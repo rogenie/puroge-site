@@ -7,7 +7,8 @@ sustainable clothing and linen, each written as a sales letter that leads to the
 
 ## Add an article
 
-1. Pick the next keyword in `docs/keyword-map.md`.
+1. Articles publish automatically (Mon/Wed/Fri) from `content/calendar.json` following `PUBLISHING.md`. To add one by hand:
+   pick the next keyword in `docs/keyword-map.md`.
 2. Copy an article from `content/articles/` and rename it to the new slug.
 3. Follow `docs/article-structure.md`. Every statistic gets a footnote to its source.
 4. Set `draft: true` while writing. Remove it to publish.
