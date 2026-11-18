@@ -141,11 +141,12 @@ def page(title, description, path, body, schema=None, og_type="website", extra_h
 <a class="skip" href="#main">Skip to content</a>
 <header class="masthead">
   <div class="wrap bar">
-    <a class="brand" href="{url()}" aria-label="Purogé Journal home"><span class="emb">{EMBLEM}</span>{LOGO}<span>Journal</span></a>
+    <a class="brand" href="/" aria-label="Purogé home"><span class="emb">{EMBLEM}</span>{LOGO}<span>Journal</span></a>
     <nav aria-label="Main">
-      <a href="{url()}">Articles</a>
-      <a href="{url('about/')}">About</a>
-      <a class="shop" href="{SITE['shop_url']}">Shop the edit</a>
+      <a href="/looks/">Looks</a>
+      <a href="/#label"><span class="nav-the">The </span>Label</a>
+      <a class="nav-story" href="/story/">Story</a>
+      <a class="here" href="{url()}" aria-current="page">Journal</a>
     </nav>
   </div>
 </header>
