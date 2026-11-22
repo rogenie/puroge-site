@@ -14,7 +14,7 @@ quick_answer: >
   and one linen top and pair of pants can be dressed up or down, so you pack less. Its only drawback is creasing.
   Roll instead of folding, pack it fully dry, hang it on arrival, and a steamy bathroom or a mist of water will
   relax most wrinkles.
-related: [are-linen-pants-appropriate-for-work, linen-vs-cotton, why-humans-should-wear-sustainable-clothing]
+related: [are-linen-pants-appropriate-for-work, linen-vs-cotton, why-humans-should-wear-sustainable-clothing, how-to-keep-linen-from-wrinkling]
 sources:
   - https://www.moss.co.uk/inside-pocket/post/how-to-travel-with-linen
   - https://sondeflor.com/blogs/all-about-linen/how-to-pack-linen-clothes

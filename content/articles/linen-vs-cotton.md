@@ -14,7 +14,7 @@ quick_answer: >
   stronger, dry faster, and the plant needs less water, fertilizer and pesticide to grow. Cotton is softer from the
   first wear, wrinkles less and costs less. Choose linen for pieces you wear often in warm weather, at work or on the
   road; choose cotton, ideally organic, for everyday basics where softness matters most.
-related: [why-humans-should-wear-sustainable-clothing, is-linen-good-for-travel, are-linen-pants-appropriate-for-work, is-polyester-bad-for-you]
+related: [why-humans-should-wear-sustainable-clothing, is-linen-good-for-travel, are-linen-pants-appropriate-for-work, is-polyester-bad-for-you, how-to-keep-linen-from-wrinkling]
 sources:
   - https://cfda.com/resources/materials-hub/article/fiber-guide-flax-linen/
   - https://cfda.com/resources/materials-hub/materials-index/flax-linen/
