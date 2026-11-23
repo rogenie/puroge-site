@@ -14,7 +14,7 @@ quick_answer: >
   resort-style: a straight or tapered leg, a proper waistband, a mid-to-heavy weight fabric that isn’t see-through,
   and a quiet color. Pair them with a structured top or a linen shirt, and accept a few soft creases as part of
   the look.
-related: [why-humans-should-wear-sustainable-clothing, is-linen-good-for-travel, linen-vs-cotton]
+related: [why-humans-should-wear-sustainable-clothing, is-linen-good-for-travel, linen-vs-cotton, is-linen-see-through]
 sources:
   - https://fibflx.com/pages/the-complete-guide-to-linen-pants-how-to-choose-style-and-care-for-linen-trousers
   - https://coofandy.com/blogs/guides/linen-pants-casual-office

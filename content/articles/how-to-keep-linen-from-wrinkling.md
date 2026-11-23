@@ -14,7 +14,7 @@ quick_answer: >
   How to keep linen from wrinkling: wash it gently in a half-full drum with a low spin, never wring it,
   take it out the moment the cycle ends, and dry it on a hanger. Iron or steam while slightly damp.
   For travel, roll it with tissue paper and hang it on arrival. Some soft creasing is normal.
-related: [why-humans-should-wear-sustainable-clothing, is-linen-good-for-travel, are-linen-pants-appropriate-for-work]
+related: [why-humans-should-wear-sustainable-clothing, is-linen-good-for-travel, are-linen-pants-appropriate-for-work, is-linen-see-through]
 sources:
   - https://www.textileschool.com/320/characteristics-of-flax-linen-fiber/
   - https://www.frontiersin.org/articles/10.3389/fpls.2019.00411/full
