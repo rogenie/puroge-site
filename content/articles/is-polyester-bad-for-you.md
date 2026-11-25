@@ -14,7 +14,7 @@ quick_answer: >
   Is polyester bad for you? Science has not shown that wearing it causes illness. But polyester is a plastic:
   it absorbs little moisture, tends to hold odor more than cotton, sheds microplastic fibers in the wash, and
   is often colored with dyes some skin reacts to. The health effects of microplastics are still being studied.
-related: [why-humans-should-wear-sustainable-clothing, linen-vs-cotton, are-linen-pants-appropriate-for-work]
+related: [why-humans-should-wear-sustainable-clothing, linen-vs-cotton, are-linen-pants-appropriate-for-work, best-fabric-for-long-flights]
 sources:
   - https://cfda.com/resources/materials-hub/materials-index/polyester/
   - https://apparelresources.com/business-news/manufacturing/global-fibre-output-grows-6-5-2024-synthetics-widening-lead-textile-exchange/
