@@ -54,3 +54,8 @@ The live schedule is `content/calendar.json`; the automatic publisher (see `PUBL
 - Phrase headings as questions where it reads naturally.
 - Every statistic gets a footnote to its original source. No unsourced numbers.
 - Link to the pillar and to at least two related articles.
+11. Does linen get softer over time?
+12. 100% linen vs. linen blends
+13. What to wear to work when it's hot
+14. How to read a clothing care label
+15. Is linen breathable?

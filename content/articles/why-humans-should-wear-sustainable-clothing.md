@@ -14,7 +14,7 @@ quick_answer: >
   microplastics, hold heat and moisture against the skin, and wear out fast enough to be thrown away within a
   few years. Sustainable clothing made from natural fibers such as linen breathes, lasts for years, and means
   buying less often. It is better for the person wearing it, not only for the planet.
-related: [linen-vs-cotton, are-linen-pants-appropriate-for-work, is-linen-good-for-travel, is-polyester-bad-for-you]
+related: [linen-vs-cotton, are-linen-pants-appropriate-for-work, is-linen-good-for-travel, is-polyester-bad-for-you, how-to-wash-linen]
 sources:
   - https://www.ellenmacarthurfoundation.org/a-new-textiles-economy
   - https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data

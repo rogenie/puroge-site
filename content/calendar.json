@@ -83,7 +83,9 @@
       "title": "How to Wash and Care for Linen So It Lasts Decades",
       "primary_keyword": "how to wash linen",
       "angle": "Cool wash, line dry, steam; care is the biggest lever on a garment's footprint.",
-      "status": "todo"
+      "status": "published",
+      "url": "https://puroge.com/journal/how-to-wash-linen/",
+      "published": "2026-11-27"
     },
     {
       "date": "2026-11-30",
@@ -123,6 +125,46 @@
       "title": "Natural Fabrics for Sensitive Skin",
       "primary_keyword": "best fabric for sensitive skin",
       "angle": "What to look for on the label; no medical claims, defer to dermatologists.",
+      "status": "todo"
+    },
+    {
+      "date": "2026-12-11",
+      "slug": "does-linen-get-softer",
+      "title": "Does Linen Get Softer Over Time?",
+      "primary_keyword": "does linen get softer",
+      "angle": "Why flax relaxes with washing and wear, how long it takes, and what 'stonewashed' and 'prewashed' finishes do.",
+      "status": "todo"
+    },
+    {
+      "date": "2026-12-14",
+      "slug": "linen-blend-vs-100-linen",
+      "title": "100% Linen vs. Linen Blends: Which Should You Buy?",
+      "primary_keyword": "linen blend vs 100% linen",
+      "angle": "Linen-cotton, linen-viscose and linen-poly blends compared on breathability, creasing, care and end of life.",
+      "status": "todo"
+    },
+    {
+      "date": "2026-12-16",
+      "slug": "what-to-wear-to-work-when-its-hot",
+      "title": "What to Wear to Work When It's Hot",
+      "primary_keyword": "what to wear to work when it's hot",
+      "angle": "Fiber, weave, fit and color for client-facing days in heat; natural fiber over synthetics.",
+      "status": "todo"
+    },
+    {
+      "date": "2026-12-18",
+      "slug": "how-to-read-clothing-care-labels",
+      "title": "How to Read a Clothing Care Label",
+      "primary_keyword": "how to read clothing care labels",
+      "angle": "The washing, drying and ironing symbols decoded, and what the FTC Care Labeling Rule requires on US labels.",
+      "status": "todo"
+    },
+    {
+      "date": "2026-12-21",
+      "slug": "is-linen-breathable",
+      "title": "Is Linen Breathable? What Makes a Fabric Breathe",
+      "primary_keyword": "is linen breathable",
+      "angle": "Air permeability, moisture uptake and drying speed explained; how weave and weight change the answer.",
       "status": "todo"
     }
   ]
