@@ -11,7 +11,7 @@ publish workflow pulls this repo and rebuilds every hour, so a pushed article is
 1. Today = today's date in America/Los_Angeles.
 2. Open `content/calendar.json`. **Due** = items dated today or earlier with `status` `"todo"`.
    Publish every due item, oldest first (a past date means a run was missed: catch it up).
-   Never publish an item dated in the future. If nothing is due, do the topic top-up check (below) and stop.
+   Never publish an item dated in the future. If nothing is due, do the topic top-up check (below), commit and stop.
 3. Before writing, list `content/articles/` and read the titles. If the topic is already covered,
    set the item to `"skip"` with a `note` and move on.
 4. Research (see Sources), write (see Writing), fact-check (see Fact-check).
@@ -65,7 +65,9 @@ and copy the front-matter shape of an existing article in `content/articles/`.
 
 ## Topic top-up
 
-If fewer than 6 items remain with `status` `"todo"`, add new items so there are 10, dated on the calendar's
+Run this check at the end of EVERY run, after publishing (and on runs where nothing was due), and commit
+any new items together with that run's other `content/` changes (message `Calendar: add topics through <date>`
+when nothing was published). If fewer than 6 items remain with `status` `"todo"`, add new items so there are 10, dated on the calendar's
 cadence (Monday, Wednesday, Friday) after the last dated item. Choose questions people actually search about
 natural fiber, linen, sustainable clothing, fabric care, dressing for work and travel, found through this run's
 searches ("people also ask" style questions, forum threads, competitor FAQ pages). Each item:
